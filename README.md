@@ -1,2 +1,2 @@
 # NBA-schedule-optimizer
-An imitation of NBA schduling
+An imitation of NBA scheduling
